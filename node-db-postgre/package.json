@@ -1,0 +1,16 @@
+{
+  "name": "db-postgre",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pg": "^8.5.1"
+  },
+  "devDependencies": {},
+  "description": ""
+}
